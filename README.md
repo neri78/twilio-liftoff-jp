@@ -1,6 +1,6 @@
-<h1 align="center">🚀 <a href="https://www.twilio.com/go/liftoff-training-japan-1/">Twilio Liftoff</a> 🚀</h1>
+<h1 align="center">🚀 <a href="https://www.twilio.com/go/liftoff-stage1-dev-webinar-Japan-1">Twilio Liftoff</a> 🚀</h1>
 
-TwilioはさまざまなコミュニケーションAPIを提供しています。このリポジトリは開発者向けにTwilioを使いはじめるための基礎トレーニングシリーズ「[Twilio Liftoffウェビナー](https://www.twilio.com/go/liftoff-training-japan-1/)」で実施したデモのサンプルコードを格納しています。
+TwilioはさまざまなコミュニケーションAPIを提供しています。このリポジトリは開発者向けにTwilioを使いはじめるための基礎トレーニングシリーズ「[Twilio Liftoffウェビナー](https://www.twilio.com/go/liftoff-stage1-dev-webinar-Japan-1)」で実施したデモのサンプルコードを格納しています。
 
 コードの利用方法についてはそれぞれのディレクトリに配置されている`README.md`を参照してください。
 
