@@ -12,7 +12,7 @@
 npm install
 ```
 
-環境変数に下記の値を追加し、それぞれTwilioコンソールから値を設定してください。
+[環境変数](https://www.twilio.com/blog/how-to-set-environment-variables-jp)に下記のキーを追加し、それぞれTwilioコンソールから値を設定してください。
 - `ACCOUNT_SID`
 - `AUTH_TOKEN`
 
