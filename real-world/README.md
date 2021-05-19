@@ -25,6 +25,6 @@ npm start
 
 （例）https://hoge.ngrok.io/voice
 
-`01-server.js`のその他のコードはトレーニング中に使用した、Twilio - Google Calendar APIデモで利用したサンプルコードです。どのように動作しているかについてはレコーディングをご覧ください。
+`01-server.js`のその他のコードはTwilio - Google Calendar APIデモで利用したサンプルコードです。どのように動作しているかについてはレコーディングをご覧ください。
 
 Googleカレンダーから予定を取得し、該当するユーザーにSMSを送信するコードは `02-send-reminders.js`で実装しています。こちらもレコーディングをご覧ください。
