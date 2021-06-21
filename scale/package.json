@@ -1,0 +1,19 @@
+{
+  "name": "twilio-liftoff-demo-3",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">🚀 Twilio Liftoff: スケーリング 🚀</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node status-callback.js"
+  },
+  "keywords": [],
+  "author": "Daizen",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "googleapis": "^73.0.0",
+    "twilio": "^3.62.0"
+  }
+}
